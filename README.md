@@ -11,5 +11,4 @@ This library simply animates a div similar to Google +.
 <script src="script.js"></script>
 <script src="jquery.waypoints.js"></script>
 ```
-###And simply add elements with a class of container. This can be adjusted
-easily directly in the source code in script.js
+###And simply add elements with a class of container. This can be adjusted easily directly in the source code in script.js
